@@ -9,5 +9,9 @@ hhhhhhhh
 I am namrata
 rutuja kale
 vaishnavi isasre
+<<<<<<< HEAD
 namu baby , i love u
 are u mad
+=======
+rrrrruuuuutuuuuuuuuu
+>>>>>>> fbe6517d7c3ed3f37d86ecf94c7a8f2bf2bfe867
